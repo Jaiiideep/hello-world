@@ -31,8 +31,6 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-  <h1>Thankyou</h1>
+  <h1>Thank You</h1>
   <h1>Demo By: Jaideep Singh Chahal</h1>
-
-  
 </form>
